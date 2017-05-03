@@ -13,5 +13,5 @@ import hello from './components/Hello'
  }
 </script>
 <style>
-div{background-color: #0f0;}
+div{background-color: #fff;}
 </style>
